@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
 import reportWebVitals from './reportWebVitals';
-import FeedbackForm from './Feedback_Form/FeedbackForm';
+import FeedbackForm from './Feedback_Form/FeedbackForm'
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
